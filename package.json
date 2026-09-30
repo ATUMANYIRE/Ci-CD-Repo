@@ -1,0 +1,21 @@
+{
+  "name": "ci-cd-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATUMANYIRE/Ci-CD-Repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ATUMANYIRE/Ci-CD-Repo/issues"
+  },
+  "homepage": "https://github.com/ATUMANYIRE/Ci-CD-Repo#readme"
+}
